@@ -224,6 +224,8 @@ int main()
     }
 
     cout <<"Adios\n";
+    cout <<"hola";
+    cout <<"HHHH";
 
     return 0;
 }
