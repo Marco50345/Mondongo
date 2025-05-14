@@ -223,5 +223,7 @@ int main()
         break;
     }
 
+    cout <<"Adios\n";
+
     return 0;
 }
